@@ -1,7 +1,7 @@
 # Task 2 — Phishing Detection & Awareness Report
 
 ### Future Interns Cybersecurity Internship | SOC Analyst Portfolio
-
+### Analyst: Mubeen Waheed
 
 
 ## Overview
