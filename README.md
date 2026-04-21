@@ -1,6 +1,6 @@
 # Task 2 — Phishing Detection & Awareness Report
 
-### Future Interns Cybersecurity Internship | Aspiring SOC Analyst Portfolio
+### Future Interns Cybersecurity Internship | SOC Analyst Portfolio
 
 
 
