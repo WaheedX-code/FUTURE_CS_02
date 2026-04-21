@@ -18,8 +18,7 @@ This task involved the collection, analysis, and classification of real-world ph
 |--------------------------------------------------------------------------|--------------------------------------------|
 |[rf-peixoto/phishing_pot](https://github.com/rf-peixoto/phishing_pot)     |Real-world phishing `.eml` sample collection|
 |[MXToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)|Header parsing, SPF/DKIM/DMARC analysis     |
-|[Whois.com](https://www.whois.com)                                        |Domain and IP infrastructure investigation  |
-|RIPE / ARIN WHOIS                                                         |IP geolocation and ownership lookup         |
+|[Whois.com](https://www.whois.com)                                        |Domain and IP infrastructure investigation. IP geolocation and ownership lookup  |
 
 
 ## Samples Analysed
